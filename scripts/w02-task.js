@@ -34,7 +34,7 @@ imageElement.setAttribute('alt', `Profile picture of ${fullName}`);
 
 /* Step 5 - Array */
 
-let favFood = ["White Rice", "Beans Porridge", "Plantain"];
+let favFood = ["White Rice", "Beans Porridgen", "Plantain"];
 
 foodElement.textContent = favFood;
 
